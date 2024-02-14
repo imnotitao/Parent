@@ -4,3 +4,6 @@
 [submodule "ChildB"]
 	path = ChildB
 	url = https://github.com/imnotitao/ChildB.git
+[submodule "ChildC"]
+	path = ChildC
+	url = https://github.com/imnotitao/ChildC.git
